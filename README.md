@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AHIMBISIBWE-ALOYSIUS
-- 👀 I’m interested in music 
+- 👀 I’m interested in computer repair and maintenance. 
 - 🌱 I’m currently learning Information technology 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on 0764088716 or 0743506895

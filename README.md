@@ -1,4 +1,6 @@
 - 👋 Hi, I’m AHIMBISIBWE ALOYSIUS
+- I am a male Ugandan aged 22.
+- I come from Kiyanga S/c, Ruhinda North county in Mitooma district in Western Uganda.🦩🦩
 - 👀 I’m interested in computer repair and maintenance. 
 - 🌱 I’m currently learning Information technology 
 - 💞️ I’m looking to collaborate on  Creation of websites .

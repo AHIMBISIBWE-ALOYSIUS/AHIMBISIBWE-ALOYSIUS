@@ -1,0 +1,90 @@
+*{   
+    padding: 0;
+}
+h1{ color: blue; font-size:30px; font-weight: bolder;}
+legend{
+    color: blue; font-size: 30px; font-weight: bold;
+}
+.sidebar{
+    height:100vh;
+    background-color:darkcyan;
+    padding: 0px;
+    margin: 0px;
+    color: white; text-align: center;
+    position: fixed;
+    width: auto;
+    left: 80%;
+}
+.profilediv{
+    height: 30vh;
+}
+.imagediv{
+    width: 300px;
+    height: 400px;
+}
+.imagediv img{
+    object-fit: cover;
+    object-position: center;
+}
+th,tr,td {border: 1px solid black;
+    
+}
+
+.menu{
+    overflow-y: scroll;
+    font-size: 1.5 inch;
+    font-style: italic;
+    font-weight: bolder;
+}
+.menu ul li a{
+    display: block;
+}
+.menu ul li a:hover{
+    color: whitesmoke;
+    background-color: rgb(84, 156, 181);
+}
+.menu a{
+    text-decoration: none;
+    color:rgb(165, 237, 19);
+}
+.menu li{
+    padding: 10px;
+    list-style: none;
+    
+}
+.menu ul{
+    text-decoration: none;
+    
+}
+
+.content{
+    background-color: aliceblue;
+    overflow-y: scroll; 
+}
+
+.button{
+    background-color: green; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button2{background-color:red;}
+.button3{background-color: blue;}
+.button4{background-color: aqua;}
+.button5{background-color: black;}
+.button6{background-color: blueviolet;}
+.button7{background-color: greenyellow;}
+.button9{background-color:grey;}
+
+/* .skill{
+    background-image: url(images/ALOYSIUS\ 3.jpg);
+    background-size: cover;
+    background-position: center 25%;
+    position: relative;
+} */
